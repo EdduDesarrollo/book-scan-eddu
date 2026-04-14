@@ -1,0 +1,40 @@
+# Ignorar archivos y carpetas generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Archivos de sistema y editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de salida y temporales
+Fotos/
+temp/
+
+# Documentos y archivos de Office
+*.docx
+*.xlsx
+*.pptx
+
+# Otros
+*.log
+*.db
+*.sqlite
+
+# Ignorar archivos de Kivy
+.kivy/
+
+# Ignorar archivos de Pillow
+*.thumb
+
+# Ignorar archivos de Book Scan generados
+Codigo separado/
+
+# Ignorar carpeta Archivos txt y su contenido
+Archivos txt/

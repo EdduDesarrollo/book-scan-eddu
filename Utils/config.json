@@ -1,0 +1,12 @@
+{
+  "PREFIJO_ARCHIVO": "UY-UDELAR-AGU-AIH-",
+  "TIEMPO_ESPERA": 2,
+  "NOMBRE_INGRESADO": "ASD",
+  "CAMARA_1": "68cd6f9aa74fae785bee88465777fff",
+  "CAMARA_2": "8dfcb42bd14df3da1d16029e2be92483",
+  "DIRECTORIO": "/home/eddu/Documentos/Book_Scan/Fotos",
+  "MSJ_PIDO_ROLLO": "Es necesario saber el n\u00famero de pagina con el que va a trabajar \n y la cantidad de d\u00edgitos.",
+  "MSJ_CAMBIO_NOMBRE": "Ingresa el nombre del archivo:\n",
+  "MSJ_PIDO_QTY_CAMARAS": "Cuantas c\u00e1maras va a utilizar?",
+  "COLOR_BOTONES": "(0.175, 0.319, 0.513, 0.997)"
+}
